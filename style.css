@@ -1,0 +1,51 @@
+body{
+    background-color: #000000;
+}
+
+.master{
+    background-color: #09ff00;
+    width: 700px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    position: relative;
+}
+
+.left_top{
+    background-color: #0000FF;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 0px;
+    left: 0px; 
+
+}
+
+.left_bottom{
+    background-color: #FFFF00;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px; 
+}
+
+.right_top{
+    background-color: #00FFFF;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.right_bottom{
+    background-color: #FF00FF;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
